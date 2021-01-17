@@ -4,7 +4,7 @@
 }
 .wrraper .bg__fon {
   min-height: 100vh;
-  background: url(img/header-fon.png) center top no-repeat;
+  background: url(../img/header-fon.png) center top no-repeat;
   background-size: cover;
 }
 .navbar-logo {
@@ -245,7 +245,7 @@
   display: block;
   width: 16px;
   height: 16px;
-  background: url(img/Cup.png) no-repeat;
+  background: url(../img/Cup.png) no-repeat;
   position: absolute;
   top: 7px;
   left: 0;
@@ -263,7 +263,7 @@
   display: block;
   width: 16px;
   height: 16px;
-  background: url(img/Mouse.png) no-repeat;
+  background: url(../img/Mouse.png) no-repeat;
   position: absolute;
   top: 7px;
   left: 3px;
@@ -281,7 +281,7 @@
   display: block;
   width: 16px;
   height: 16px;
-  background: url(img/Energy.png) no-repeat;
+  background: url(../img/Energy.png) no-repeat;
   position: absolute;
   top: 7px;
   left: 3px;
@@ -299,7 +299,7 @@
   display: block;
   width: 16px;
   height: 16px;
-  background: url(img/Speedometer.png) no-repeat;
+  background: url(../img/Speedometer.png) no-repeat;
   position: absolute;
   top: 7px;
   left: 0;
@@ -358,7 +358,7 @@
   width: 100%;
   height: auto;
   background: #16151b;
-  background-image: url(img/Warstwa.png);
+  background-image: url(../img/Warstwa.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 214px;
