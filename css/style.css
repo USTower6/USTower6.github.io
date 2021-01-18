@@ -51,7 +51,7 @@
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.nav__hover:hover:before, .nav__hover:focus:before, .nav__hover:active:before {
+.nav__hover:hover:before {
   left: 0;
   right: 0;
 }
