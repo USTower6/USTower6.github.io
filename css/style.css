@@ -746,7 +746,6 @@ overflow: hidden;} /*Случайно заработало*/
   font-size: 14px;
   font-weight: bold;
   line-height: 48px;
-  text-align: center;
   text-transform: uppercase;
 }
 @media screen and (max-width: 767px) {
