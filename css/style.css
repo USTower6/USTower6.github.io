@@ -748,7 +748,7 @@ overflow: hidden;} /*Случайно заработало*/
   text-align: center;
   text-transform: uppercase;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .nav-item__my {
   }
   .nav__link.nav-link__my {
