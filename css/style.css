@@ -734,7 +734,7 @@ overflow: hidden;} /*Случайно заработало*/
   color: #ffffff;
   opacity: 0.2;
   padding: 10px;
-  transition: 0.5s ease ;
+  transition: 0.5s ease;
 }
 .footer__icon:hover {
   color: #008ed6;
@@ -748,6 +748,23 @@ overflow: hidden;} /*Случайно заработало*/
   line-height: 48px;
   text-transform: uppercase;
 }
+.footer__icon-item {
+  text-align: center;
+}
+.fot {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 767px) {
   .nav-item__my {
   }
